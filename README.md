@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=99c9f9&height=300&section=header&text=HEE💻%20CodeSketch&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=99c9f9&height=300&section=header&text=HEE💻CodeSketch&fontSize=60)
 ### PYTHON 💭
 [![Py](https://img.shields.io/badge/Python-87CEFA?style=flat-square&logo=python&logoColor=#3776AB)](https://github.com/whgmltn/python)
 
